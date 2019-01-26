@@ -7,4 +7,4 @@ View [Click Me](https://hendriekasaputra.github.io/Portfolio/)
 ### There is no fun in Perfection
 
 ### Version
-1.0.0
+1.2.8
