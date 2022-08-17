@@ -2,7 +2,7 @@
 This is my Portfolio
 
 ### Link
-View [Click Me](https://hendriekasaputra.github.io/Portfolio/)
+View [Click Me](https://hendriekasaputra.github.io/)
 
 ### There is no fun in Perfection
 
